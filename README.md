@@ -1,4 +1,5 @@
-# react-boiler
-React, Node and Webpack boilerplate for full-stack apps
-# ReactReduxStarter
 # JazzBox
+Prepare to dazzle your inner hipster as you bring the avant garde coffee
+society to the confines of your own workspace.
+
+*Enter the Jazz Box*
